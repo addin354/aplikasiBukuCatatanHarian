@@ -7,7 +7,7 @@ Aplikasi ini adalah aplikasi desktop berbasis Java menggunakan Swing untuk menge
 - Nama : Addin Husnan Nadhari
 - Kelas : 5B nonreg Banjarmasin
 - Npm : 2210010037
-- 
+
 ## Fitur Utama
 1. **Tambah Catatan**: Tambahkan catatan baru dengan judul, isi, dan tanggal.
 2. **Lihat Catatan**: Tampilkan daftar catatan yang tersimpan dalam tabel.
